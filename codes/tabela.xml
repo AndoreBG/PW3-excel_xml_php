@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabela>
+    <linha>
+        <COD_SECAO>A</COD_SECAO>
+        <DESC_SECAO>AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQÜICULTURA</DESC_SECAO>
+        <COD_SUBCLASSE>111301</COD_SUBCLASSE>
+        <DESC_SUBCLASSE>Cultivo de arroz</DESC_SUBCLASSE>
+    </linha>
+    <linha>
+        <COD_SECAO>A</COD_SECAO>
+        <DESC_SECAO>AGRICULTURA, PECUÁRIA, PRODUÇÃO FLORESTAL, PESCA E AQÜICULTURA</DESC_SECAO>
+        <COD_SUBCLASSE>111302</COD_SUBCLASSE>
+        <DESC_SUBCLASSE>Cultivo de milho</DESC_SUBCLASSE>
+    </linha>
+</tabela>
